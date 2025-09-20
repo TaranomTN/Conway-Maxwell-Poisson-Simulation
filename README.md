@@ -22,3 +22,7 @@ The **Conway-Maxwell-Poisson (CMP)** distribution is a generalization of the Poi
 - Visualization of results with plots and metrics
 - Comparison with standard Poisson models
 - Jupyter notebook with step-by-step explanation
+
+## 📬 Contact
+
+Created by [Taranom Torabi](mailto:taranom.torabi1377@gmail.com) — feel free to reach out with any questions or feedback!
